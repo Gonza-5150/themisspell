@@ -10,5 +10,6 @@
 	"difficulty": "junior",
 	"technologies": ["github"],	
 	"description" : "Your first open-source contribution",
-	"talents": []
+	"talents": ["all", "some", "none"]
+
 }
